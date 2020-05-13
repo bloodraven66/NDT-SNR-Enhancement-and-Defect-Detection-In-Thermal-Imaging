@@ -2,7 +2,7 @@
 extension of our final year project - " Signal processing approaches for noise reduction in pulsed thermography"
 ### Objectives:
 1. Improve SNR in thermal images:<br>
-  - Use autoencoders to obtain this. <br>
+- Use autoencoders to obtain this. <br>
   - Obatined ~20+ SNR(db) increase over other signal processing techniques. <br>
   ![](images/ae.png)
   - Some of the reconstructed images are show above. 
