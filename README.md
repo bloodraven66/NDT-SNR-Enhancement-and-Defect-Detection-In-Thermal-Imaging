@@ -7,5 +7,4 @@ extension of our final year project - " Signal processing approaches for noise r
 2. Obtain better defect detection/visibility:<br>
   - Using LSTM to visualize defects and identify depth one-shot in a test dataset.
   - preliminary results:
-  ![](images/lstm.png)
- 
+  
