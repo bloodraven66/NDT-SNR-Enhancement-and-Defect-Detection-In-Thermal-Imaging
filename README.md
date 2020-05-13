@@ -1,6 +1,6 @@
 
 extension of our final year project - " Signal processing approaches for noise reduction in pulsed thermography".<br>
-The material has subsurface defects, the images were obtained using pulsed thermopraghy. We have 2 datasets, one with images taken 250 images and other with 200 images. There are taken at t = 0.008s intervals. 
+The material has subsurface defects, the images were obtained using pulsed thermopraghy. We have 2 datasets, one with 250 images and other with 200 images. There are taken at t = 0.008s intervals. 
 ### Objectives:
 1. Improve SNR in thermal images:<br>
   - Use autoencoders to increase image SNR. <br>
